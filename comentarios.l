@@ -1,3 +1,6 @@
+
+Autor: Antônio Andson da Silva - Ciência da Computação - Campus Quixadá
+
 %{
 
 /* Escreva um arquivo de entrada Lex para produzir um programa que coloque em caixa alta todos os comentários de um programa em C. */
